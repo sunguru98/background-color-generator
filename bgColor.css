@@ -1,0 +1,43 @@
+html,body{
+    height:100%;
+    margin: 0;
+    padding:0;
+}
+body{
+    font-family: Raleway,sans-serif;
+    letter-spacing:0.5em;
+}
+.container{
+    width: 960px;
+    margin:0 auto;
+    text-align: center;
+}
+.uppercase{
+     text-transform: uppercase;
+     color:rgba(0,0,0,0.5);
+}
+.bgColorTitle{
+    margin-top:60px;
+    font-size:40px;
+    letter-spacing:15px;
+    line-height: 60px;
+}
+h2{
+    font-family:Times,serif;
+    margin:70px 0 40px 0;
+}
+.colorType{
+    letter-spacing: 0;
+    font-size:25px;
+    font-weight:100;
+    font-family: pacifico,serif;
+    color:rgba(0,0,0,0.6);
+}
+
+.colorBtn{
+    padding: 20px;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    font-family: avenir sans-serif;
+}
